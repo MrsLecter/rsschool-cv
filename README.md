@@ -1,2 +1,2 @@
 Hello!
-See my CV 
+See my CV https://MrsLecter.github.io/rsschool-cv/cv
