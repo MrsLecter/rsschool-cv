@@ -1,0 +1,46 @@
+.wrapper {
+  width: 99%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center; 
+  justify-content: center; 
+}
+
+header {
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+}
+
+hr {
+  border: 1px solid black;
+  clear:both;
+  display:block;
+  width: 96%;
+  color:black;
+  height: 0px;
+}
+
+.bio {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.about {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: left;
+  height: 60vh;
+}
+
+.mylink {
+  list-style-type: none;
+}
+
+.mylink li {
+  display: inline;
+  padding: 20px;
+}
